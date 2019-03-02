@@ -25,4 +25,4 @@ export class SuccessOutputComponent implements OnInit {
 
   }
 }
-// for info
+// for info please again
